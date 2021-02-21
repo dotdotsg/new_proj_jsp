@@ -4,3 +4,5 @@ image:
 tasks:
   - init: make new_yml
     command: 'echo "TODO: Replace with command to start project"'
+
+#new add
